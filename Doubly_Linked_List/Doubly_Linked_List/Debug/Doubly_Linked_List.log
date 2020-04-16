@@ -1,0 +1,8 @@
+﻿  main.c
+D:\Projects_in_c\Doubly_Linked_List\Doubly_Linked_List\main.c(19,28): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Doubly_Linked_List\Doubly_Linked_List\main.c(217,9): warning C4033: "findByValue" должен возвращать значение
+D:\Projects_in_c\Doubly_Linked_List\Doubly_Linked_List\main.c(252,6): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Doubly_Linked_List\Doubly_Linked_List\main.c(312,7): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Doubly_Linked_List\Doubly_Linked_List\main.c(326,26): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\Doubly_Linked_List\Doubly_Linked_List\main.c(229): warning C4715: findByValue: значение возвращается не при всех путях выполнения
+  Doubly_Linked_List.vcxproj -> D:\Projects_in_c\Doubly_Linked_List\Debug\Doubly_Linked_List.exe

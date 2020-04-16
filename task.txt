@@ -1,0 +1,21 @@
+1.Реализовать двусвязный список вещественных чисел, пример:
+3.14 -> 3.0 -> 9.9 -> -9.2 -> -7.7
+head -> .................. -> tail
+этот же список но с хвоста:
+-7.7 -> -9.2 -> 9.9 -> 3.0 -> 3.14
+
+реализовать функции:
+outputToRight работает
+outputToLeft работает
+addToRight работает
+addToLeft работает
+addBeforeCurrent(параметр - указатель на элемент списка) работает
+findByValue работает
+addBeforeValue работает
+deleteByValue работает
+deleteByPointer работает
+swapTwoElement работает
+
+splice(dlist* one, entry* left, entry* right, dlist* two, entry* position) - 
+операция врезки(вставки) - берём все элементы списка one между left->...->right
+вырезаем их из списка one, вставляем все их в список two после элемента position.
